@@ -1,4 +1,4 @@
-# SCOL: Style Code Orchestration in Latent Space for Proactive Face-Swapping Defense
+# SCOL: Style Code Orchestration in Latent Space for Proactive Face-Swapping Defense (ACM MM 2025)
 
 ## Getting Started
 ### Prerequisites
